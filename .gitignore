@@ -1,0 +1,7 @@
+*pyc
+setup.py
+src/.idea
+.ropeproject
+dist
+venv
+env
