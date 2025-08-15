@@ -1,8 +1,3 @@
-Mini DBZ
-========
-[Youtube Video](https://www.youtube.com/watch?v=ppBaWFEijIE&feature=youtu.be)
-
-![Alt text](/resources/imagens/divulgacao/imagem1.png?raw=true "mini-dbz")
 
 To play
 -------
